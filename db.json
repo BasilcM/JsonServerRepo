@@ -30,7 +30,29 @@
           "role": "student",
           "password": "P@ssw06d"
         }
-      ]
+      ],
+      "role":[
+        {
+          "id": 1,
+          "name": "superadmin",
+          "description": "",
+        },
+        {
+          "id": 2,
+          "name": "admin",
+          "description": "",
+        },
+        {
+          "id": 3,
+          "name": "teacher",
+          "description": "",
+        },
+        {
+          "id": 4,
+          "name": "student",
+          "description": "",
+        }
+      ],
     }
   ]
 }
